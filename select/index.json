@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Voices",
+  "base_artist": "Leo/need",
+  "createdAt": "2025-12-16T11:35:54.184533Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Voices",
+      "artist": "Koven",
+      "has_synced": true,
+      "path": "select/01_Voices_Koven.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Voices",
+      "artist": "Chris Young",
+      "has_synced": true,
+      "path": "select/02_Voices_Chris_Young.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Voices",
+      "artist": "Joshua Ray Walker",
+      "has_synced": true,
+      "path": "select/03_Voices_Joshua_Ray_Walker.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Full of Voices",
+      "artist": "Maximilian Hecker",
+      "has_synced": false,
+      "path": "select/04_Full_of_Voices_Maximilian_Hecker.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "He Do the Police In Different Voices",
+      "artist": "The Loud Family",
+      "has_synced": false,
+      "path": "select/05_He_Do_the_Police_In_Different_Voices_The_Loud_Family.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "He Do the Police in Different Voices",
+      "artist": "Loud Family",
+      "has_synced": false,
+      "path": "select/06_He_Do_the_Police_in_Different_Voices_Loud_Family.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "other voices",
+      "artist": "LCD Soundsystem",
+      "has_synced": true,
+      "path": "select/07_other_voices_LCD_Soundsystem.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Note (These Voices)",
+      "artist": "Maps",
+      "has_synced": false,
+      "path": "select/08_The_Note_(These_Voices)_Maps.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Voices",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/09_Voices_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Voices In the Sky",
+      "artist": "The Moody Blues",
+      "has_synced": true,
+      "path": "select/10_Voices_In_the_Sky_The_Moody_Blues.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Voices",
+      "artist": "Nick Drake",
+      "has_synced": true,
+      "path": "select/11_Voices_Nick_Drake.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Voices In My Head",
+      "artist": "Onra",
+      "has_synced": false,
+      "path": "select/12_Voices_In_My_Head_Onra.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Voices",
+      "artist": "Vangelis",
+      "has_synced": true,
+      "path": "select/13_Voices_Vangelis.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Voices",
+      "artist": "R.L. Kelly",
+      "has_synced": false,
+      "path": "select/14_The_Voices_R.L._Kelly.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "R.L. Kelly - The Voices",
+      "artist": "Alex G",
+      "has_synced": false,
+      "path": "select/15_R.L._Kelly_-_The_Voices_Alex_G.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Voices (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&鏡音リン)",
+      "artist": "Leo/need",
+      "has_synced": false,
+      "path": "select/pl_01_Voices_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&鏡音リン)_Leo_need.txt"
+    }
+  ]
+}
