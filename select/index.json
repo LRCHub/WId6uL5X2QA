@@ -1,128 +1,152 @@
 {
   "version": 1,
-  "base_track": "Voices",
+  "base_track": "Voices (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&鏡音リン)",
   "base_artist": "Leo/need",
-  "createdAt": "2025-12-16T11:35:54.184533Z",
+  "createdAt": "2026-02-27T12:29:13.778627Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "Voices",
-      "artist": "Koven",
+      "title": "Voices (feat. TZAR)",
+      "artist": "Brooks",
       "has_synced": true,
-      "path": "select/01_Voices_Koven.lrc"
+      "path": "select/01_Voices_(feat._TZAR)_Brooks.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "Voices",
-      "artist": "Chris Young",
-      "has_synced": true,
-      "path": "select/02_Voices_Chris_Young.lrc"
+      "title": "Voices (feat. Oliver Tree)",
+      "artist": "KSI feat. Oliver Tree",
+      "has_synced": false,
+      "path": "select/02_Voices_(feat._Oliver_Tree)_KSI_feat._Oliver_Tree.txt"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "Voices",
-      "artist": "Joshua Ray Walker",
+      "title": "Voices (feat. Rita J)",
+      "artist": "20syl feat. Rita J",
       "has_synced": true,
-      "path": "select/03_Voices_Joshua_Ray_Walker.lrc"
+      "path": "select/03_Voices_(feat._Rita_J)_20syl_feat._Rita_J.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "Full of Voices",
-      "artist": "Maximilian Hecker",
-      "has_synced": false,
-      "path": "select/04_Full_of_Voices_Maximilian_Hecker.txt"
+      "title": "Voices (feat. Rita J)",
+      "artist": "20Syl",
+      "has_synced": true,
+      "path": "select/04_Voices_(feat._Rita_J)_20Syl.lrc"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "He Do the Police In Different Voices",
-      "artist": "The Loud Family",
-      "has_synced": false,
-      "path": "select/05_He_Do_the_Police_In_Different_Voices_The_Loud_Family.txt"
+      "title": "Voices (feat. Rita J)",
+      "artist": "20syl, Rita J",
+      "has_synced": true,
+      "path": "select/05_Voices_(feat._Rita_J)_20syl,_Rita_J.lrc"
     },
     {
       "id": "lrclib_6",
       "source": "lrclib",
-      "title": "He Do the Police in Different Voices",
-      "artist": "Loud Family",
-      "has_synced": false,
-      "path": "select/06_He_Do_the_Police_in_Different_Voices_Loud_Family.txt"
+      "title": "Voices (feat. Loveless)",
+      "artist": "ALESTI",
+      "has_synced": true,
+      "path": "select/06_Voices_(feat._Loveless)_ALESTI.lrc"
     },
     {
       "id": "lrclib_7",
       "source": "lrclib",
-      "title": "other voices",
-      "artist": "LCD Soundsystem",
+      "title": "Voices (feat. Sasha Keable)",
+      "artist": "Disclosure",
       "has_synced": true,
-      "path": "select/07_other_voices_LCD_Soundsystem.lrc"
+      "path": "select/07_Voices_(feat._Sasha_Keable)_Disclosure.lrc"
     },
     {
       "id": "lrclib_8",
       "source": "lrclib",
-      "title": "The Note (These Voices)",
-      "artist": "Maps",
-      "has_synced": false,
-      "path": "select/08_The_Note_(These_Voices)_Maps.txt"
+      "title": "Voices (feat. Sophie & Kučka)",
+      "artist": "Flume",
+      "has_synced": true,
+      "path": "select/08_Voices_(feat._Sophie_&_Kučka)_Flume.lrc"
     },
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "Voices",
-      "artist": "Madonna",
+      "title": "Voices (feat. TZAR) [Extended Mix]",
+      "artist": "Brooks",
       "has_synced": true,
-      "path": "select/09_Voices_Madonna.lrc"
+      "path": "select/09_Voices_(feat._TZAR)_[Extended_Mix]_Brooks.lrc"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "Voices In the Sky",
-      "artist": "The Moody Blues",
+      "title": "I Hear Voices feat. Carl Thomas",
+      "artist": "P. Diddy",
       "has_synced": true,
-      "path": "select/10_Voices_In_the_Sky_The_Moody_Blues.lrc"
+      "path": "select/10_I_Hear_Voices_feat._Carl_Thomas_P._Diddy.lrc"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "Voices",
-      "artist": "Nick Drake",
+      "title": "Voices (feat. Vanessa Quinones)",
+      "artist": "Dario G",
       "has_synced": true,
-      "path": "select/11_Voices_Nick_Drake.lrc"
+      "path": "select/11_Voices_(feat._Vanessa_Quinones)_Dario_G.lrc"
     },
     {
       "id": "lrclib_12",
       "source": "lrclib",
-      "title": "Voices In My Head",
-      "artist": "Onra",
-      "has_synced": false,
-      "path": "select/12_Voices_In_My_Head_Onra.txt"
+      "title": "Voices (feat. Sasha Keable)",
+      "artist": "Disclosure feat. Sasha Keable",
+      "has_synced": true,
+      "path": "select/12_Voices_(feat._Sasha_Keable)_Disclosure_feat._Sasha_Keable.lrc"
     },
     {
       "id": "lrclib_13",
       "source": "lrclib",
-      "title": "Voices",
-      "artist": "Vangelis",
+      "title": "VOICES (feat. XXXTENTACION)",
+      "artist": "Skye feat. XXXTENTACION",
       "has_synced": true,
-      "path": "select/13_Voices_Vangelis.lrc"
+      "path": "select/13_VOICES_(feat._XXXTENTACION)_Skye_feat._XXXTENTACION.lrc"
     },
     {
       "id": "lrclib_14",
       "source": "lrclib",
-      "title": "The Voices",
-      "artist": "R.L. Kelly",
-      "has_synced": false,
-      "path": "select/14_The_Voices_R.L._Kelly.txt"
+      "title": "VOICES (feat. XXXTENTACION)",
+      "artist": "Skye/XXXTentacion",
+      "has_synced": true,
+      "path": "select/14_VOICES_(feat._XXXTENTACION)_Skye_XXXTentacion.lrc"
     },
     {
       "id": "lrclib_15",
       "source": "lrclib",
-      "title": "R.L. Kelly - The Voices",
-      "artist": "Alex G",
+      "title": "Voices (feat. Amos Winbush)",
+      "artist": "The Shanghai Restoration Project feat. Amos Winbush",
       "has_synced": false,
-      "path": "select/15_R.L._Kelly_-_The_Voices_Alex_G.txt"
+      "path": "select/15_Voices_(feat._Amos_Winbush)_The_Shanghai_Restoration_Project_feat._Amos_Winbush.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Voices (feat. Kylie Minogue)",
+      "artist": "Jake Shears feat. Kylie Minogue",
+      "has_synced": true,
+      "path": "select/16_Voices_(feat._Kylie_Minogue)_Jake_Shears_feat._Kylie_Minogue.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Hear Voices (feat. Carl Thomas)",
+      "artist": "Puff Daddy",
+      "has_synced": false,
+      "path": "select/17_I_Hear_Voices_(feat._Carl_Thomas)_Puff_Daddy.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Voices (feat. Mary E. McGlynn)",
+      "artist": "Akira Yamaoka feat. Arkadiusz Reikowski",
+      "has_synced": false,
+      "path": "select/18_Voices_(feat._Mary_E._McGlynn)_Akira_Yamaoka_feat._Arkadiusz_Reikowski.txt"
     },
     {
       "id": "petitlyrics_1",
